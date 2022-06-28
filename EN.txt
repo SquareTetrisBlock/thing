@@ -1,0 +1,48 @@
+sprint.name:Sprint
+sprint.desc:Automatically sprints when possible.
+hud.name:HUD
+hud.desc:Renders a Heads Up Display that shows information on the Client.
+clickgui.name:ClickGUI
+clickgui.desc:Displays the settings menu for the clients modules.
+killaura.name:Killaura
+killaura.desc:Attacks nearby Entities for you.
+cheststealer.name:ChestStealer
+cheststealer.desc:Automatically takes items from chests.
+scaffold.name:Scaffold
+scaffold.desc:Places blocks underneath you.
+step.name:Step
+step.desc:Allows you to step up any chosen height.
+noslow.name:NoSlow
+noslow.desc:Removes the slowdown effect from using items.
+autopot.name:AutoPot
+autopot.desc:Automatically throws potions.
+chams.name:Chams
+chams.desc:Renders Entities through walls
+killaura.reach:Reach
+killaura.aps:APS
+killaura.strafe:Strafe
+killaura.autoblock:Autoblock
+killaura.off:Off
+killaura.autoblock.packet:Packet
+autopot.health:Health
+autopot.delay:Delay
+noslow.slowdown:Slowdown
+noslow.sprint:Sprint
+step.mode:Mode
+step.mode.vanilla:Vanilla
+step.mode.NCP:NCP
+cheststealer.instant:Instant
+cheststealer.delay:Delay
+scaffold.rotations:Rotations
+scaffold.rotations.keep:Keep Rotations
+scaffold.sameY:SameY
+scaffold.mode:Mode
+scaffold.mode.fast:Fast
+scaffold.mode.slow:Slow
+scaffold.mode.tower:Tower
+scaffold.shouldtower:Tower
+scaffold.mode.tower:Tower
+scaffold.mode.tower.NCP:NCP
+scaffold.mode.tower.jump:Jump
+scaffold.reverseyaw:Reverse Yaw
+scaffold.bypass:Bypass
