@@ -1,38 +1,54 @@
+#English Lang table for Eternal Client
 sprint.name:Sprint
 sprint.desc:Automatically sprints when possible.
+
 hud.name:HUD
 hud.desc:Renders a Heads Up Display that shows information on the Client.
+
 clickgui.name:ClickGUI
 clickgui.desc:Displays the settings menu for the clients modules.
+
 killaura.name:Killaura
 killaura.desc:Attacks nearby Entities for you.
+
 cheststealer.name:ChestStealer
 cheststealer.desc:Automatically takes items from chests.
+
 scaffold.name:Scaffold
 scaffold.desc:Places blocks underneath you.
+
 step.name:Step
 step.desc:Allows you to step up any chosen height.
+
 noslow.name:NoSlow
 noslow.desc:Removes the slowdown effect from using items.
+
 autopot.name:AutoPot
 autopot.desc:Automatically throws potions.
+
 chams.name:Chams
 chams.desc:Renders Entities through walls
+
 killaura.reach:Reach
 killaura.aps:APS
 killaura.strafe:Strafe
 killaura.autoblock:Autoblock
 killaura.off:Off
 killaura.autoblock.packet:Packet
+
 autopot.health:Health
 autopot.delay:Delay
+
 noslow.slowdown:Slowdown
 noslow.sprint:Sprint
+
 step.mode:Mode
 step.mode.vanilla:Vanilla
 step.mode.NCP:NCP
+
 cheststealer.instant:Instant
 cheststealer.delay:Delay
+
 scaffold.rotations:Rotations
 scaffold.rotations.keep:Keep Rotations
 scaffold.sameY:SameY
@@ -46,3 +62,87 @@ scaffold.mode.tower.NCP:NCP
 scaffold.mode.tower.jump:Jump
 scaffold.reverseyaw:Reverse Yaw
 scaffold.bypass:Bypass
+
+speed.name:Speed
+speed.desc:Increases the players speed.
+
+fly.name:Fly
+fly.desc:Allows Flight.
+
+velocity.name:Velocity
+velocity.desc:Removes knockback.
+
+invmanager.name:InvManager
+invmanager.desc:Cleans and sorts your inventory.
+
+esp.name:ESP
+esp.desc:Your sixth sense.
+
+targethud.name:TargetHUD
+targethud.desc:Displays information about the current target.
+
+norotate.name:NoRotate
+norotate.desc:Prevents the server from rotating your head.
+
+disabler.name:Disabler
+disabler.desc:Disables
+
+tiemchanger.name:TimeChanger
+timechanger.desc:Changes the time Clientside.
+
+autoclicker.name:AutoClicker
+autoclicker.desc:Simulates mouse clicks at a selected speed.
+
+nofall.name:NoFall
+nofall.desc:Removes fall damage.
+
+targetstrafe.name:TargetStrafe
+targetstrafe.desc:Strafes around the current Target.
+
+killsults.name:KillSults
+killsults.desc:Insults victims upon their demise.
+
+noclip.name:NoClip
+noclip.desc:No Collision.
+
+safewalk.name:SafeWalk
+safewalk.desc:No more falling off cliffs.
+
+bypass.name:Bypass
+bypass.desc:Not a disabler. Helps you bypass better by disallowing certain actions.
+
+antislime.name:AntiSlime
+antislime.desc:Removes the effect of slimeblocks.
+
+animations.name:Animation
+animations.desc:Block animations.
+
+guimove.name:GuiMove
+guimove.desc:Allows you to move whilst in Guis.
+
+antiweb.name:AntiWeb
+antiweb.desc:Removes the effects of cobwebs.
+
+fastuse.name:FastUse
+fastuse.desc:Consumes items faster.
+
+viewmodel.name:ViewModel
+viewmodel.desc:Customisable ViewModel.
+
+viewbob.name:ViewBob
+viewbob.desc:Customises ViewBobbing.
+
+longjump.name:LongJump
+longjump.desc:Makes you jump long.
+
+fullbright.name:FullBright
+fullbright.desc:Fullbright.
+
+breadcrumbs.name:BreadCrumbs
+breadcrumbs.desc:Shows a trail of your previous locations.
+
+dash.name:Dash
+dash.desc:Gives you a burst of speed.
+
+timer.name:Timer
+timer.desc:Changes the gamespeed.
