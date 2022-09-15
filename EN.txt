@@ -146,3 +146,6 @@ dash.desc:Gives you a burst of speed.
 
 timer.name:Timer
 timer.desc:Changes the gamespeed.
+
+criticals.name:Criticals
+criticals.desc:Deals critical hits.
