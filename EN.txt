@@ -1,4 +1,5 @@
 #English Lang table for Eternal Client
+#MODULES
 sprint.name:Sprint
 sprint.desc:Automatically sprints when possible.
 
@@ -149,3 +150,10 @@ timer.desc:Changes the gamespeed.
 
 criticals.name:Criticals
 criticals.desc:Deals critical hits.
+
+#DEBUG MODULES
+mcdf.name:McHub Dungeon Fucker
+mcdf.desc:LOL
+
+graverobber.name:GraveRobber
+graverobber.desc:Robs Graves
